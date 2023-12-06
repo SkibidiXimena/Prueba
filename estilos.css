@@ -1,0 +1,36 @@
+	body{
+			background-image:url("zadig.jpg");
+		}
+		table{
+			text-align: center;
+			background-color: #fff4e0;
+			opacity: 0.95;
+			width: 70%;
+		}
+
+.tamaño1{
+	width: 100px;
+}
+.tamaño2{
+	width: 150px;
+	height: 150px;
+}
+/* unvisited link */
+a:link {
+  color: lightpink;
+}
+
+/* visited link */
+a:visited {
+  color: lightcoral;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightpink;
+}
+
+/* selected link */
+a:active {
+  color: lightcoral;
+}
